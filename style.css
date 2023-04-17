@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/* Example of a CSS rule that changes the text color of an h3 tag */
+h3{
+  color:blue;
+  text-align:center;
+ 
+}
+
+/* Place your work for Part 2 in the space below*/
+
+p{
+  color: red;
+  font-family: monospace;
+  text-align:center;
+}
+h1{
+  color: red;
+  border:5px solid red;
+    padding: 5px;
+   font-family: monospace;
+  text-align:center;
+}
+h2{
+  color:color: red
+   font-family: monospace;
+  text-align:center;
+  }
+body{
+  background-color: black;
+  font-family: monospace;
+}
+img{
+  width: 500px;
+  text-align:center;
+}
+.chicken{
+  color: white;
+}
